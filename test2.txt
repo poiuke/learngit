@@ -1,2 +1,2 @@
 this is the second file
-creating a new branch is very quickly
+creating a new branch is very quickly & simple
